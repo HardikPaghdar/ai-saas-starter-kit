@@ -73,3 +73,10 @@ Before using this as a real SaaS product, add:
 
 ## License
 MIT — see [LICENSE](LICENSE).
+
+## Explore more
+
+- [LLM Cost Optimization Gateway](https://github.com/HardikPaghdar/llm-cost-optimization-gateway) — policy-based model selection.
+- [LLM Prompt Versioning Playground](https://github.com/HardikPaghdar/llm-prompt-versioning-playground) — versioned prompt records.
+- [LLM Evaluation & Observability Platform](https://github.com/HardikPaghdar/llm-evaluation-observability-platform) — assistant output evaluation.
+- [More projects on my portfolio](https://hardikpaghdar.netlify.app/).
